@@ -1,4 +1,6 @@
-# Godot-Sqleet
+# Godot-Sqleet 
+
+SQLite Encryption lib
 
 Fork from https://github.com/2shady4u/godot-sqlite/tree/godot-sqleet
 
